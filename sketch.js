@@ -4,25 +4,25 @@ let sprites = {
   img: null,
   width: 47,
   height: 95,
-  frames: 1
+  frames: 5
   },
   walk: {
   img: null,
   width: 91,
   height: 95,
-  frames: 1
+  frames: 6
   },
   jump: {
   img: null,
   width: 73,
   height: 95,
-  frames: 1
+  frames: 8
   },
   attack: {
   img: null,
   width: 97,
   height: 92,
-  frames: 1
+  frames: 7
   }
   },
   player2: {
@@ -30,25 +30,25 @@ let sprites = {
   img: null,
   width: 51,
   height: 95,
-  frames: 1
+  frames: 8
   },
   walk: {
   img: null,
   width: 58,
   height: 95,
-  frames: 1
+  frames: 6
   },
   jump: {
   img: null,
   width: 50,
   height: 87,
-  frames: 1
+  frames: 7
   },
   attack: {
   img: null,
   width: 99,
   height: 93,
-  frames: 1
+  frames: 5
   }
   },
   bullet: {
